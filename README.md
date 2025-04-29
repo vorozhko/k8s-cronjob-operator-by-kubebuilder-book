@@ -1,8 +1,8 @@
 # k8s-cronjob-operator
-// TODO(user): Add simple overview of use/purpose
+Kuberentes Cronjob operator similar to built-in cronjobs.batch.
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+This is educational example of building k8s operators based on cronjob example from kubebuilder book.
 
 ## Getting Started
 
